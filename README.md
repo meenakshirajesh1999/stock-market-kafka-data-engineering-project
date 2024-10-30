@@ -19,8 +19,10 @@ Technologies used in this project inlude Python, Amazon Web Services (AWS), Apac
 - Apache Kafka
 
 
-## Dataset Used
+## API Used
 
-Dataset used: - https://github.com/meenakshirajesh1999/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Yahoo Finance API
+
+
 
 
